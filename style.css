@@ -1,0 +1,57 @@
+
+.don{
+    display: flex;
+}
+
+body {
+    text-align: center;
+}
+.main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.green{
+    height: 200px;
+    width: 200px;
+    border-radius: 30%;
+
+    background-color: green;
+    margin: 1.5rem;
+
+}
+
+.yellow{
+     height: 200px;
+    width: 200px;
+    border-radius: 30%;
+    background-color: yellow;
+    margin: 1.5rem;
+
+
+}
+
+.red{
+     height: 200px;
+    width: 200px;
+    border-radius: 30%;
+    background-color: red;
+    margin: 1.5rem;
+
+}
+
+.purple{
+     height: 200px;
+    width: 200px;
+    border-radius: 30%;
+    background-color: purple;
+    margin: 1.5rem;
+
+}
+.white{
+    background-color: white;
+}
+.black{
+    background-color: black;
+}
